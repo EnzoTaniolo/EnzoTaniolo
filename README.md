@@ -13,7 +13,7 @@ Atualmente sei: <br><img src="https://img.shields.io/badge/HTML5-E34F26?style=fo
 
 Caso queria contato comigo Clique aqui! :arrow_heading_down:
 <br><br>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://www.linkedin.com/in/enzo-taniolo-0005a1241/" target="_blank">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://www.linkedin.com/in/enzo-taniolo-0005a1241/" target="_blank">
                              <img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
                          <a/>
 
