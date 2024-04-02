@@ -1,8 +1,6 @@
 ### Eai Pessoal, Meu nome é Enzo 😎
 
 Sou um Desenvolvedor Full-Stack, Estou publicando meus projetos para prática dos meus estudos aqui no GitHub.<br>
-Atualmente estou estudando Back-end!:dart:<br>
-Futuramente pretendo aprender React.
 <hr>
 
 
