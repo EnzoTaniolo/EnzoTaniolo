@@ -1,6 +1,6 @@
 ### Eai Pessoal, Meu nome é Enzo 😃
 
-Sou Desenvolvedor Full-Stack, publico meus projetos para prática dos meus estudos aqui no GitHub!<br>
+Sou Desenvolvedor Full-Stack, publico alguns projetos para prática dos meus estudos aqui no GitHub!<br>
 <hr>
 
 
